@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b33pl0g1c&show_icons=true&locale=en" alt="b33pl0g1c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b33pl0g1c&" alt="b33pl0g1c" /></p>
+
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
