@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@b33pl0g1c"
+                feed_list: 'https://medium.com/feed/@b33pl0g1c'
