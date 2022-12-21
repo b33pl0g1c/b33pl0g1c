@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashp011" target="blank"><img src="https://img.shields.io/twitter/follow/akashp011?logo=twitter&style=for-the-badge" alt="akashp011" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Structures and Algorithms!**
 
 - 📝 I regularly write articles on [b33pl0g1c.medium.com](b33pl0g1c.medium.com)
 
