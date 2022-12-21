@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **poudelakash28@gmail.com**
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Why will some computers run out of time on 19th January 2038?](https://b33pl0g1c.medium.com/why-will-some-computers-run-out-of-time-on-19th-january-2038-65da21e221d0?source=rss-af44c2d7686d------2)
 - [Hacking the Debugging Pin of a Flask Application](https://b33pl0g1c.medium.com/hacking-the-debugging-pin-of-a-flask-application-7364794c4948?source=rss-af44c2d7686d------2)
@@ -41,8 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b33pl0g1c&" alt="b33pl0g1c" /></p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
