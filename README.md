@@ -27,9 +27,9 @@
 <p align="left">
 <a href="https://twitter.com/akashp011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashp011" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashp011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashp011" height="30" width="40" /></a>
-<a href="https://fb.com/akash poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash poudel" height="30" width="40" /></a>
+<a href="https://fb.com/833P.L0G1C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash poudel" height="30" width="40" /></a>
 <a href="https://medium.com/@b33pl0g1c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@b33pl0g1c" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akash poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash poudel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akashpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash poudel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
