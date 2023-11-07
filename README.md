@@ -17,10 +17,10 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding, Exploiting and Avoiding the Race Condition Vulnerability](https://b33pl0g1c.medium.com/understanding-exploiting-and-avoiding-the-race-condition-vulnerability-80e9f5ee4f07?source=rss-af44c2d7686d------2)
 - [Why will some computers run out of time on 19th January 2038?](https://b33pl0g1c.medium.com/why-will-some-computers-run-out-of-time-on-19th-january-2038-65da21e221d0?source=rss-af44c2d7686d------2)
 - [Hacking the Debugging Pin of a Flask Application](https://b33pl0g1c.medium.com/hacking-the-debugging-pin-of-a-flask-application-7364794c4948?source=rss-af44c2d7686d------2)
 - [How gigachads download files?](https://b33pl0g1c.medium.com/how-gigachads-download-files-d4e676bf0e37?source=rss-af44c2d7686d------2)
-- [The Day Grub Broke on every Arch.](https://b33pl0g1c.medium.com/the-day-grub-broke-on-arch-672b7db741f7?source=rss-af44c2d7686d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
